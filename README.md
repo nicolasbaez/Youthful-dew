@@ -1,5 +1,5 @@
 # Youthful-dew
-I need to study caligraphy
+I need to study calligraphy
 
 ![buh](https://github.com/nicolasbaez/Youthful-dew/blob/main/xp001.gif)
 ```javascript
